@@ -1,0 +1,31 @@
+/* Style Sheet */
+
+h1 {
+    font-size: xx-large;
+    background-color: orange;
+    text-align: center;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.main {
+    background-color: darkseagreen;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+a {
+    font-size: 20px;
+}
+
+.desc{
+    font-style: italic;
+    background-color:darkred;
+}
